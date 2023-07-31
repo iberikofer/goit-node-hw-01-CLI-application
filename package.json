@@ -1,0 +1,27 @@
+{
+  "name": "goit-node-hw-01-CLI-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iberikofer/goit-node-hw-01-CLI-application.git"
+  },
+  "author": "Yaroslav Sych",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iberikofer/goit-node-hw-01-CLI-application/issues"
+  },
+  "homepage": "https://github.com/iberikofer/goit-node-hw-01-CLI-application#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
